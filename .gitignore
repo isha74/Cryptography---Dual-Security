@@ -27,5 +27,4 @@ src/output/
 *.ipynb_checkpoints/
 
 
-echo src/keys/private.pem
-echo src/keys/public.pem
+src/keys/
